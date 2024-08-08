@@ -1,0 +1,26 @@
+(Numerical Python) NumPy:
+-used for faster array control
+-mostly used in data science
+
+Pandas:
+-Used for data manipulation and data analysis
+-gives data structures and operations for manipulating numerical tables=
+
+(scikit-learn) Sklearn:
+-used for data mining and analysis
+-includes learning algorithms like: Classification, Regression, Clustering, Dimensionality Reduction, Model Selection, etc.
+
+TensorFlow:
+-developed by Google
+-used for deeplearning and neural networks
+-includes keras integration
+
+Keras: 
+-high-level neural networks API
+-provides an easy-to-use interface for building and training deep learning models
+
+Pytorch:
+-developed by Facebook's AI Research lab
+-used for applications in deep learning and scientific computing
+-known for - Dynamic Computation Graph
+
