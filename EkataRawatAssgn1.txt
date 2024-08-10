@@ -1,0 +1,67 @@
+Ekata Rawat:
+ASSIGNMENT 1
+
+Pandas
+Pandas is an open source library that provides high-performance, easy-to-use data structures and data analysis tools for Python programming language. It was created by software developer Wea McKinney out of the need for a high performance, flexible tool to perform quantitative analysis on financial data. The name ‘pandas’ refers to ‘Panel Data’ or ‘Python Data Analysis’.
+It is built on the top of NumPy library. It is often used as input for plotting functions in Matplotlib, statistical analysis in SciPy and machine learning algorithms in Scikit-learn.
+Things we can perform using Pandas:
+	Data set cleaning, merging and joining.
+	Data Management
+	Data Visualization
+	Grouping Data
+	Data Filtering
+	Data Aggregation
+
+
+
+Numpy
+Numpy is an open source Python library that is used for working with arrays. The term ‘Numpy’ refers to ‘Numerical Python’. It was developed by the data scientist Travis Oliphant in 2005. It contains high level mathematical functions to operate on arrays.
+Its feature include:
+	Powerful N-dimensional Array
+	Broadcasting functions
+	Integration with other libraries
+	Mathematical operations
+	Faster execution.
+
+TensorFlow
+TensorFlow is an open source library for machine learning and artificial intelligence. It was developed by Google Brain team and released on 2015.In ‘TensorFlow’, ’Tensor’ refers to Multidimensional Array and Flow refers to ‘flow of data in operation  It can be used in a wide variety of programming languages including Python, JavaScript, C++, Java, etc. 
+Application of TensorFlow
+	Image processing and Video detection
+	Time series algorithm
+	Modeling
+	Text recognition
+	Natural Language Processing
+	Neural networks
+
+Keras
+Keras is an open-source deep-learning framework written in python and is used for building and training neural networks. It was developed by Google. It supports Convolutional and Recurrent Networks. It is a high level API for TensorFlow.	
+Features of Keras:
+	Simple interface
+	Extensibility and Customizability
+	Cross-Platform Compatibility
+	Scalability and Performance
+	Massive Ecosystem
+
+Sklearn
+Also known as Scikit-learn is an open source python library that provides unsupervised and unsupervised learning It utilizes NumPy library. It started as Google Summer of Code project by French data scientists David Cournapeau. It can work with other python packages like SciPy, Pandas, NumPy, etc.
+Its features include:
+	Regrerssion Algorithms
+	Clustering Algorithms
+	Preprocessing Algorithms
+	Classfication Algorithms
+
+PyTorch
+PyTorch is a python based open source deep learning framework. It is used to build deep learning models. It was developed by developers at Facebook AI Research Center. 
+It provides high level features of Deep Neural Network and with the help of GPU.
+Its features include:
+	Rapid neural network development
+	Tensor Computation
+	Automatic Differentation
+	Simple Interface
+	Native ONNX support
+	Hybrid Font-End
+	Distributed Training
+
+
+
+
