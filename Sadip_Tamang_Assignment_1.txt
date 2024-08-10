@@ -1,0 +1,35 @@
+1) Pandas
+- It is the most popular open source software library built specifically for data manipulation and data analysis.
+- Offers several data structures and operations for powerful, flexible and easy-to-use data analysis and 
+manipulation.
+- Also, it is beneficial as it is easy to work with structured data formats such as tables, matrices, etc. 
+- Built on top of Python, It is the most popular and widely used among data scientists and ML developers as they can focus on business problem solving instead of correcting the language complexities.
+
+2) NumPy
+- A python library built to work with arrays(primarily), linear algebra and matrices.
+- NumPy array object, also called ndarray, is faster than python array.
+- Due to the wide range of supporting functions that makes working with ndarray optimal, it is preferred more in the field of Data Science where speed and resources are very crucial.
+
+3) TensorFlow
+- Another open source Python library built for developing and deploying machine learning applications.
+- It is widely used for machine learning using data flow graphs where Nodes in the graph represent mathematical operatins and edges represent data arrays ( Tensors).
+- It is used to develop models for task like NLP, image recognition and several other computation based simulations.
+
+4) Keras
+- Another open source python library that provides a python interface for artificial neural network.
+- Inititally independent, then integrated with TensorFlow, it can be used a cross framework language to develop custom components like layers, mmodels or metricscto be used in TensorFlow, JAX, pytorch. 
+
+5) Sklearn
+- Also known as Scikit-learn, it is an open source ML library in Python that provides a comprehensive set of tools and algorithms for various ML tasks.
+- It features various classification, regression and clustering algorithms.
+-Also, it is designed to interpolate with the Python numerical.
+-It uses NumPy for high performance linear Algebra and array operations.
+-It integrates well with many other Python libraries, such as Matplotlib and plotly for plotting, Pandas dataframes, SciPy, and many more.
+
+6)Pytorch
+-  Also a machine learning library, used for computer vision and NLP.
+- Distinctive for its excellent support for GPUs and easy modifications of computation graphs, it is a popular choice for fast experimentation and prototyping.
+- It’s written in Python and integrated with popular Python libraries like NumPy for scientific computing, SciPy, and Cython for compiling Python to C for better performance. Because its syntax and usage are similar to Python’s, PyTorch is relatively easy for Python developers to learn.
+- PyTorch and TensorFlow are similar in that the core components of both are tensors and graphs.
+
+ Sadip Tamang - Assignment-1
